@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Random name picker
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## UI sample
+![Screenshot 2021-11-15 at 23-35-16 Figma](https://user-images.githubusercontent.com/58311505/141921668-37dac9ab-96f2-459f-a98f-6b71e0989788.png)
+
 
 ## Available Scripts
 
