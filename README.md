@@ -1,6 +1,6 @@
 # Random name picker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project application allows you to put some names and then the web application will select a name or element at random. Finally, the last name that was chosen will not be taken into account for the next draw.
 
 ## UI sample
 ![Screenshot 2021-11-15 at 23-35-16 Figma](https://user-images.githubusercontent.com/58311505/141921668-37dac9ab-96f2-459f-a98f-6b71e0989788.png)
